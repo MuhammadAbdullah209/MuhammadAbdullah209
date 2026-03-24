@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning and building small projects with the MERN stack (MongoDB, Express, React, Node.js).<br>🌱 I’m currently learning React, Node.js basics, and how to connect frontend and backend.<br>👯 I’m looking to collaborate on simple web projects or practice apps to improve my skills.<br>🤔 I’m looking for help with best practices for MERN development and project guidance.<br>💬 Ask me about JavaScript, React, Node.js, and beginner-level web development projects.<br>📫 How to reach me: [your email or LinkedIn]<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love learning new web technologies and turning ideas into small web apps.
+🔭 I’m currently working on learning and building small projects with the MERN stack (MongoDB, Express, React, Node.js).<br>🌱 I’m currently learning React, Node.js basics, and how to connect frontend and backend.<br>👯 I’m looking to collaborate on simple web projects or practice apps to improve my skills.<br>🤔 I’m looking for help with best practices for MERN development and project guidance.<br>💬 Ask me about JavaScript, React, Node.js, and beginner-level web development projects.<br>📫 How to reach me: [abdullah488838@gmail.com]<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love learning new web technologies and turning ideas into small web apps.
 
 
 ## 🌐 Socials:
